@@ -32,7 +32,7 @@
 <li class="nav-item"><a href="about.php" class="nav-link">About Me</a></li>
 <li class="nav-item"><a href="practice.php" class="nav-link">Practice Areas</a></li>
 <li class="nav-item"><a href="attorney.php" class="nav-link">Team</a></li>
-<li class="nav-item active"><a href="blog.php" class="nav-link">Blog</a></li>
+<!-- <li class="nav-item active"><a href="blog.php" class="nav-link">Blog</a></li> -->
 <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
 </ul>
 </div>
@@ -348,8 +348,8 @@
 <p>Licensed Paralegal, Notary Public and Regulated Canadian Immigration Consultant</p>
 <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+<li class="ftco-animate"><a target = '_blank' href="https://www.facebook.com/Ghugelegal"><span class="icon-facebook"></span></a></li>
+<li class="ftco-animate"><a target = '_blank' href="https://www.instagram.com/ghugelegal"><span class="icon-instagram"></span></a></li>
 </ul>
 </div>
 </div>
@@ -385,6 +385,7 @@
 <li><span class="icon icon-map-marker"></span><span class="text">52 Village Center Pl, Suite 103, Mississauga, Ontario. L4Z 1V9</span></li>
 <li><a href="tel:+1 289-203-0424"><span class="icon icon-phone"></span><span class="text">+1 289-203-0424</span></a></li>
 <li><a href="mailto:info@ghugelegal.com"><span class="icon icon-envelope"></span><span class="text"><span class="__cf_email__" data-cfemail="9cf5f2faf3dce5f3e9eef8f3f1fdf5f2b2fff3f1">info@ghugelegal.com</span></span></a></li>
+<li><a href="tel:+1 289-203-0424"><span class="icon icon-phone"></span><span class="text">+1 289-203-0424</span></a></li>
 </ul>
 </div>
 </div>
